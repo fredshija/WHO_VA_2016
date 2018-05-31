@@ -1,4 +1,6 @@
-t
+<?php
+
+echo "Hello world"
 
 
-est document
+?>
